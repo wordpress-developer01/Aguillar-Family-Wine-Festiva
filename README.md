@@ -14,6 +14,4 @@ The table displays the time and event details for the wine festival.
 
 Feel free to submit issues or pull requests.
 
-## License
 
-This project is licensed under the MIT License.
