@@ -15,3 +15,4 @@ The table displays the time and event details for the wine festival.
 Feel free to submit issues or pull requests.
 
 
+![image](https://github.com/user-attachments/assets/36d2834c-d18d-4dc7-b4a7-d693202bdee7)
